@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TECHIS.Serialization.Absractions
+namespace TECHIS.Serialization.Abstractions
 {
     public interface ISerializer
     {
