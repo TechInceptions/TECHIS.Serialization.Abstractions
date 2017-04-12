@@ -8,8 +8,8 @@
     <Description>Serialization abstractions</Description>
     <PackageTags>Azure Storage Serialization Cloud Messaging TECHIS Core</PackageTags>
     <Copyright>TECH-IS INC.</Copyright>
-    <PackageProjectUrl>https://github.com/TechInceptions/TECHIS.Serialization.Absractions</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/TechInceptions/TECHIS.Serialization.Absractions</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/TechInceptions/TECHIS.Serialization.Abstractions</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/TechInceptions/TECHIS.Serialization.Abstractions</RepositoryUrl>
     <RepositoryType>Git</RepositoryType>
     <PackageReleaseNotes>.NET Standard 1.6 release, corrected spelling mistake</PackageReleaseNotes>
     <Version>0.2.2</Version>
