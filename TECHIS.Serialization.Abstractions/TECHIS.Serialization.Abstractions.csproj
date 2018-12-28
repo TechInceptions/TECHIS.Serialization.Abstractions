@@ -1,18 +1,20 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard1.1</TargetFramework>
+    <TargetFrameworks>netstandard1.1;netstandard2.0</TargetFrameworks>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <AssemblyVersion>0.2.3.0</AssemblyVersion>
-    <FileVersion>0.2.3.0</FileVersion>
+    <AssemblyVersion>0.2.4.0</AssemblyVersion>
+    <FileVersion>0.2.4.0</FileVersion>
     <Description>Serialization abstractions</Description>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageOutputPath>C:\Data\PackageRepo</PackageOutputPath>
     <PackageTags>Azure Storage Serialization Cloud Messaging TECHIS Core</PackageTags>
     <Copyright>TECH-IS INC.</Copyright>
     <PackageProjectUrl>https://github.com/TechInceptions/TECHIS.Serialization.Abstractions</PackageProjectUrl>
     <RepositoryUrl>https://github.com/TechInceptions/TECHIS.Serialization.Abstractions</RepositoryUrl>
     <RepositoryType>Git</RepositoryType>
-    <PackageReleaseNotes>Downgraded to support .NET Standard 1.1 release</PackageReleaseNotes>
-    <Version>0.2.3</Version>
+    <PackageReleaseNotes>Added targeting for netstandard2.0</PackageReleaseNotes>
+    <Version>0.2.4</Version>
     <Authors>TECH-IS, Arinze</Authors>
     <Company>TECH-IS INC.</Company>
   </PropertyGroup>
